@@ -47,6 +47,7 @@ android.accept_sdk_license = True
 
 # Архитектура процессора (arm64-v8a — современные телефоны)
 android.arch = arm64-v8a
+p4a.branch = 2024.01.21
 
 
 [buildozer]
